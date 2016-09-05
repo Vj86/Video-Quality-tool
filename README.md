@@ -1,4 +1,6 @@
-# Video-Quality-tool
+# Video-Quality-tool-Jerkiness-Algorithm
+
+
 
 With this tool I won the best paper award at the 13th international conference on Mobile and Multimedia in Brussels (MoMm 2015).
 
